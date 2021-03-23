@@ -1,0 +1,38 @@
+[
+    {
+        "id" : 1,
+        "categoria" : "Navideños",
+        "nombre" : "Obeja para sendero",
+        "precio" : 300
+    },
+    {
+        "id" : 2,
+        "categoria" : "Muebles",
+        "nombre" : "Ropero",
+        "precio" : 500
+    },
+    {
+        "id" : 3,
+        "categoria" : "Escolar",
+        "nombre" : "Lapicer",
+        "precio" : 80
+    },
+    {
+        "id" : 4,
+        "categoria" : "Navideños",
+        "nombre" : "Sombrero",
+        "precio" : 220
+    },
+    {
+        "id" : 5,
+        "categoria" : "Navideños",
+        "nombre" : "Árbol decorativo",
+        "precio" : 600
+    },
+    {
+        "id" : 6,
+        "categoria" : "Navideños",
+        "nombre" : "Tablero de uno",
+        "precio" : 210
+    }
+]
